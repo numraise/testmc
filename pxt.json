@@ -3,7 +3,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "minecraft-tutorial-2": "github:shakao-test/minecraft-tutorial-2#v0.0.18"
     },
     "files": [
         "main.blocks",
@@ -19,5 +20,6 @@
     },
     "supportedTargets": [
         "minecraft"
-    ]
+    ],
+    "preferredEditor": "blocksprj"
 }

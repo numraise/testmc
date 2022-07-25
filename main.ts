@@ -1,3 +1,3 @@
-player.onChat("run", function () {
-	
+player.onChat("tp", function () {
+    agent.teleportToPlayer()
 })
